@@ -6,7 +6,7 @@ class DiscordWarns extends Client {
 
         this.commands = new Collection();
         this.config = require('../config.js');
-        this.devs = ["772104444720054293"];
+        this.devs = ["ID"];
     }
 }
 
