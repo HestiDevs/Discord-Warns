@@ -1,6 +1,6 @@
 module.exports = {
-    token: 'NzgyMzQ2NTg2NTM2OTM1NDc0.X8K3CQ.CO2nz-T0cWZvbJGQf43S8hFu0ls',
+    token: 'Token',
     prefix: '!',
-    mongodb: 'mongodb+srv://AibersonDev:AibersonDev@myproject.9hom5.mongodb.net/',
+    mongodb: 'Mongo URL',
     embedColor: '#00ccff'
 }
